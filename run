@@ -1,1 +1,1 @@
-./multi_gpus 12  > log
+./multi_gpus 12
