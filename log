@@ -1,0 +1,158 @@
+
+/***** CPU basic information *****/
+Free memory size in CPU(Bs): 82409115648
+Free memory size in CPU(Gs): 76.7495
+
+/***** GPU device basic information *****/
+Devicd index: 1
+Device name: Tesla C2070
+Global memory(Bytes): 6361120768
+Global memory(GBs): 5.92426
+Free memory(Bytes): 6263078912
+Free memory(Gs): 5.83295
+
+/***** GPU device basic information *****/
+Devicd index: 2
+Device name: Tesla C2050
+Global memory(Bytes): 3150774272
+Global memory(GBs): 2.93439
+Free memory(Bytes): 3052732416
+Free memory(Gs): 2.84308
+
+/***** GPU device basic information *****/
+Devicd index: 3
+Device name: Tesla C2050
+Global memory(Bytes): 3150774272
+Global memory(GBs): 2.93439
+Free memory(Bytes): 3052732416
+Free memory(Gs): 2.84308
+
+/***** GPU device basic information *****/
+Devicd index: 4
+Device name: Tesla C2050
+Global memory(Bytes): 3150774272
+Global memory(GBs): 2.93439
+Free memory(Bytes): 3052732416
+Free memory(Gs): 2.84308
+
+/***** GPU device basic information *****/
+Devicd index: 5
+Device name: Tesla C2050
+Global memory(Bytes): 3150774272
+Global memory(GBs): 2.93439
+Free memory(Bytes): 3052732416
+Free memory(Gs): 2.84308
+
+/***** GPU device basic information *****/
+Devicd index: 6
+Device name: Tesla C2070
+Global memory(Bytes): 6361120768
+Global memory(GBs): 5.92426
+Free memory(Bytes): 6263078912
+Free memory(Gs): 5.83295
+
+/***** GPU memory information *****/
+Total free memory in GPU(Bytes): 24737087488
+Total free memory in GPU(GBs): 23.0382
+
+Maximul Pixels count: 2061423957
+Maximul memory size: 23.0382
+
+Allocating 8245695828(Bytes)/7.6794(GBs) host memory......
+Collecting images pixels......
+Process pixels(GBs): 5.7462
+
+CPU processing......
+CPU time: 9492.78 ms
+Writing 120 images to hard drives......
+
+Multiple GPUs processing......
+GPU 0 time: 1026.46 ms
+GPU 1 time: 500.796 ms
+GPU 2 time: 795.533 ms
+GPU 3 time: 795.525 ms
+GPU 4 time: 663.123 ms
+GPU 5 time: 979.673 ms
+Writing 120 images to hard drives......
+
+Collecting images pixels......
+Process pixels(GBs): 5.72599
+
+CPU processing......
+CPU time: 9161.72 ms
+Writing 119 images to hard drives......
+
+Multiple GPUs processing......
+GPU 0 time: 1023.24 ms
+GPU 1 time: 502.793 ms
+GPU 2 time: 794.842 ms
+GPU 3 time: 794.858 ms
+GPU 4 time: 660.845 ms
+GPU 5 time: 978.301 ms
+Writing 119 images to hard drives......
+
+Collecting images pixels......
+Process pixels(GBs): 5.74781
+
+CPU processing......
+CPU time: 9197.13 ms
+Writing 119 images to hard drives......
+
+Multiple GPUs processing......
+GPU 0 time: 1028.75 ms
+GPU 1 time: 503.281 ms
+GPU 2 time: 797.638 ms
+GPU 3 time: 797.593 ms
+GPU 4 time: 663.38 ms
+GPU 5 time: 978.739 ms
+Writing 119 images to hard drives......
+
+Collecting images pixels......
+Process pixels(GBs): 5.74722
+
+CPU processing......
+CPU time: 9196.6 ms
+Writing 123 images to hard drives......
+
+Multiple GPUs processing......
+GPU 0 time: 1027.9 ms
+GPU 1 time: 503.838 ms
+GPU 2 time: 799.212 ms
+GPU 3 time: 799.153 ms
+GPU 4 time: 663.199 ms
+GPU 5 time: 983.567 ms
+Writing 123 images to hard drives......
+
+Collecting images pixels......
+Process pixels(GBs): 5.74509
+
+CPU processing......
+CPU time: 9202.73 ms
+Writing 121 images to hard drives......
+
+Multiple GPUs processing......
+GPU 0 time: 1026.22 ms
+GPU 1 time: 504.145 ms
+GPU 2 time: 800.89 ms
+GPU 3 time: 800.971 ms
+GPU 4 time: 662.197 ms
+GPU 5 time: 983.659 ms
+Writing 121 images to hard drives......
+
+Collecting images pixels......
+Process pixels(GBs): 0.436862
+
+CPU processing......
+CPU time: 698.887 ms
+Writing 8 images to hard drives......
+
+Multiple GPUs processing......
+GPU 0 time: 65.432 ms
+GPU 1 time: 29.0787 ms
+GPU 2 time: 47.3759 ms
+GPU 3 time: 47.3929 ms
+GPU 4 time: 41.4918 ms
+GPU 5 time: 60.8875 ms
+Writing 8 images to hard drives......
+
+Images processing completed
